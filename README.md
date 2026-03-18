@@ -1,24 +1,22 @@
-# Saurabh Singh — Developer · Ready2UP
+# Saurabh Singh 🚀
+### Building Modern Websites, AI Tools & Chrome Extensions
 
-I build production-ready websites, Chrome extensions, and small web tools.
+I build production-ready websites, Chrome extensions, and AI tools.
+- 🌍 Based in Nashik, India — Available worldwide
+- 🔗 Portfolio: https://www.dragosaurabh.com
+- 💬 Contact: https://linkedin.com/in/dragosaurabh
 
-- 🔭 Building: AI Website Builder (Ready2UP)
-- 🌍 Location: Nashik, India — Available worldwide
-- 💬 Contact: https://www.dragosaurabh.com | https://linkedin.com/in/dragosaurabh
+## Featured Projects
+- AI Website Builder (Ready2UP)
+- Inkraft — AI SEO Blog Generator
+- AskNovaAI — AI Assistant
+- Password Generator — Utility Tool
 
 ## Tech
-JavaScript · TypeScript · React · Node.js · WordPress · Python · Chrome Extensions · Docker · CI/CD
-
-## Featured projects
-- **Ready2UP** — Modern landing pages & templates. (https://ready2up.com)  
-- **Password Generator** — Lightweight online password tool. (https://tools.ready2up.com/password-generator)  
-- **Tab URL Manager (Chrome Extension)** — Session & tab management.
-
-## What I share here
-Live projects, small tools, and helpful code snippets. I focus on clear READMEs, demos, and maintainable code.
+JavaScript · TypeScript · React · Node.js · Python · WordPress
 
 ---
 
 ## GitHub Stats
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragosaurabh&layout=compact)
 ![Stats](https://github-readme-stats.vercel.app/api?username=dragosaurabh&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dragosaurabh&layout=compact)
